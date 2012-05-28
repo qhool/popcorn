@@ -1,0 +1,9 @@
+Name:		popcorn
+Version:	0.0.1
+Cabal-Version:	>= 1.9
+License:	GPL (Just (orLaterVersion 3))
+License-File:	COPYING
+Author:		Josh Burroughs<josh at qhool dot com>
+Maintainer:	Josh Burroughs<josh at qhool dot com>
+Copyright:	Josh Burroughs 2012
+Stability:	Unstable
